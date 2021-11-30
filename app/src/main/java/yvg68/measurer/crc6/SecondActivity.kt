@@ -9,3 +9,4 @@ class SecondActivity : AppCompatActivity() {
         setContentView(R.layout.activity_second)
     }
 }
+// coding 2021.11.30
